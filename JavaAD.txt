@@ -1,0 +1,12 @@
+public class PrimeiroProjeto {
+
+   public static void  main(String[] arg){
+       var n1 = 10;
+       var n2 =20;
+       var x = n1 + n2;
+       var n3 = 30;
+       System.out.println("o valor da soma é");
+       System.out.println(x + n3 );
+         }
+
+   }
